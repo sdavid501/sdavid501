@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm seeking a co-founder proficient in Flutter, neo4j, redis, node, SQL, and Socket.io.
+I'm seeking a co-founder proficient in Flutter, neo4j, redis, nodejs, SQL, docker, Kubernetes, and Socket.io.
 
 
 ## 🌐 Socials:
